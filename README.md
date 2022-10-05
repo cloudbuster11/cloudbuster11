@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @cloudbuster11
-- 👀 I’m interested in Front End Devolpment!
-- 🌱 I’m currently learning Javascript.
+- 👀 Studying to become a Fullstack Javascript developer.
 - 📫 jockejockejockejocke@gmail.com
 
 <!---
